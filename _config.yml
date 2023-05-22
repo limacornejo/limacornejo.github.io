@@ -18,12 +18,12 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   #- {file: "index.html"}
   #- {file: "README.md"}
-  - {file: "", title: "Curriculum Vitae", icon: home}
+  - {file: "cv.pdf", title: "Curriculum Vitae", icon: home}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
+  - {title: Mail, icon: envelope, url: "mailto:matheus.limacornejo@univr.it"}
   - {title: Github, icon: github, url: "https://github.com/mvtth43us"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  #- {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
