@@ -1,6 +1,6 @@
 title: "Matheus Lima Cornejo"
 author: "Matheus Lima Cornejo"
-description: "Department of Economics <br> Università di Verona"
+description: "Department of Economics <br> Università di Verona <br> <font size="-1">This is smaller text.</font>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
