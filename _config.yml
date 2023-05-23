@@ -19,6 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   #- {file: "index.html"}
   #- {file: "README.md"}
   - {title: "Curriculum Vitae", file: "404.html"}
+  - {title: "Publications", file: "404.html"}
   - {title: "Teaching", file: "404.html"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
