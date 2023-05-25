@@ -7,6 +7,8 @@ I am a PhD student in Economics and Finance in the [Department of Economics](htt
 
 ![https://github.com/mvtth43us/mvtth43us.github.io/blob/main/pic_milano.jpeg](https://github.com/mvtth43us/mvtth43us.github.io/blob/main/pic_milano.jpeg)
 
+![title](/pic_milano.jpeg))
+
 
 <div class="row">
   <div class="column">
