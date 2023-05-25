@@ -9,6 +9,7 @@ I am a PhD student in Economics and Finance in the [Department of Economics](htt
 
 
 <div class="row">
+  haieuhdakehdiuaehdiaue agagagaga
   <div class="column">
     haieuhdakehdiuaehdiaue
     <img src="/pic_milano.jpg" alt="primeira imagem" style="width:10%">
