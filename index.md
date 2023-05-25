@@ -3,13 +3,13 @@ layout: page
 title: "About me"
 ---
 
-I am a PhD student in Economics and Finance in the [Department of Economics](https://www.dse.univr.it/?lang=en) at the [Università di Verona](https://www.univr.it/en/home). My research interests are Time Series Analysis, Financial Mathematics, and Climate Change and Financial Econometrics. Currently, I am finishing my mandatory first-year courses and slowly getting back to research.
+I am a PhD student in Economics and Finance in the [Department of Economics](https://www.dse.univr.it/?lang=en) at the [Università di Verona](https://www.univr.it/en/home). My research interests are Time Series Analysis, Financial Mathematics, and Climate Change and Financial Econometrics. Currently, I am finishing my mandatory first-year courses and slowly getting back to research. <img align="left" style="width:15%" src="/pic_milano.jpg">
 
 ![title >](/pic_milano.jpeg)
 
 ![title](/pic_milano.jpeg)
 
-<img align="left" width="100" height="100" src="/pic_milano.jpg">
+
 
 <div class="row">
   <div class="column">
