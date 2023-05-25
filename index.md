@@ -7,4 +7,4 @@ I am a PhD student in Economics and Finance in the [Department of Economics](htt
 
 ![title](IMG_0439.jpg)
 
-<img src="https://github.com/mvtth43us/mvtth43us.github.io/blob/main/IMG_0439.jpg" width="200" height="250">
+<img src="https://github.com/mvtth43us/mvtth43us.github.io/blob/main/IMG_0439.jpg" width="200" height="350">
