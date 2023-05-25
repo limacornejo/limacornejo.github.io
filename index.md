@@ -1,8 +1,10 @@
 ---
 layout: page
 ---
-
-<img src="/pic_milano.jpg" align="right" width="190px" style="margin:16px;" />
+<figure>
+  <img src="/pic_milano.jpg" align="right" width="190px" style="margin:16px;" />
+  <figcaption>Borsa di Milano, Italy.</figcaption>
+</figure>
 
 <header><strong><h1>About me</h1></strong></header>
 
