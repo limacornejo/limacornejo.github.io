@@ -9,6 +9,6 @@ I am a PhD student in Economics and Finance in the [Department of Economics](htt
 
 
 <img src="/pic_milano.jpg" align="right" width="200px"/>
-I am a PhD student in Economics and Finance in the <a href="https://www.dse.univr.it/?lang=en">Department of Economics</a> at the [Università di Verona](https://www.univr.it/en/home). My research interests are Time Series Analysis, Financial Mathematics, and Climate Change and Financial Econometrics. Currently, I am finishing my mandatory first-year courses and slowly getting back to research.
+I am a PhD student in Economics and Finance in the <a href="https://www.dse.univr.it/?lang=en">Department of Economics</a> at the <a href="https://www.univr.it/en/home">Università di Verona</a>. My research interests are Time Series Analysis, Financial Mathematics, and Climate Change and Financial Econometrics. Currently, I am finishing my mandatory first-year courses and slowly getting back to research.
 
 <br clear="right"/>
