@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<img src="/pic_milano.jpg" align="right" width="190px" />
+<img src="/pic_milano.jpg" align="right" width="190px" style="margin:16px;" />
 
 <header><strong><h1>About me</h1></strong></header>
 
