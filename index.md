@@ -8,6 +8,13 @@ I am a PhD student in Economics and Finance in the [Department of Economics](htt
 ![title](/pic_milano.jpeg)
 
 
+| Time         | Length        | Speed              | Mass         |
+| ------------ | ------------- | ------------------ | ------------ |
+| I am a PhD student in Economics and Finance in the [Department of Economics](https://www.dse.univr.it/?lang=en) at the [Università di Verona] | Millimetre    | Kilometre per hour | Milligram    |
+| Second       | Centimetre    | Foot per second    | Gram         |
+| Minute       | Inch          | Miles per hour     | Ounce        |
+
+
 
 <table border="0">
  <tr>
