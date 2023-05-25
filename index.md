@@ -8,11 +8,6 @@ I am a PhD student in Economics and Finance in the [Department of Economics](htt
 ![title](/pic_milano.jpeg)
 
 
-<style>
-td, th {
-   border: none!important;
-}
-</style>
 
 <table border="0">
  <tr>
