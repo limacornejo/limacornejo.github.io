@@ -1,9 +1,9 @@
 ---
 layout: page
 ---
-<figure>
+<figure class="image">
   <img src="/pic_milano.jpg" align="right" width="190px" style="margin:16px;" />
-  <figcaption>Borsa di Milano, Italy.</figcaption>
+  <figcaption>I am an image caption</figcaption>
 </figure>
 
 <header><strong><h1>About me</h1></strong></header>
