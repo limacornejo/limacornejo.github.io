@@ -13,7 +13,7 @@ I am a PhD student in Economics and Finance in the [Department of Economics](htt
 <img src="/pic_milano.jpg" align="left" width="200px"/>
 some text floating around the image
 
-<br clear="left"/>
+<br clear="right"/>
 
 
 <div class="row">
