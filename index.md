@@ -8,7 +8,7 @@ I am a PhD student in Economics and Finance in the [Department of Economics](htt
 ![title](/pic_milano.jpeg)
 
 
-<img src="/pic_milano.jpg" align="left" width="200px"/>
+<img src="/pic_milano.jpg" align="right" width="200px"/>
 some text floating around the image
 
 <br clear="right"/>
