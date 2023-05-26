@@ -7,7 +7,7 @@ layout: page
 
 <header><h2>Research</h2></header>
 
-<p style="margin-bottom:0;"><h3>UFES Laboratório de Estatística e Computação Natural<small style="font-size:12px;"> | Undergraduate Researcher </small></h3>
+<p style="margin-bottom:0;"><h3 style="margin-bottom:0;">UFES Laboratório de Estatística e Computação Natural<small style="font-size:12px;"> | Undergraduate Researcher </small></h3>
    Jul 2015 – Dec 2017 | Vitória, ES, Brazil
 </p>
 
