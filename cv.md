@@ -22,10 +22,18 @@ layout: page
 
 <header><h2>Education</h2></header>
 
-<p><h3>California State University, Fullerton<small style="font-size:12px;"> | BS in Mathematics - Probability and Statistics </small></h3></p>
+<p style="margin-bottom:0;"><h3 style="margin-bottom:0;">California State University, Fullerton<small style="font-size:12px;"> | BS in Mathematics - Probability and Statistics </small></h3>
+    Jul 2015 | Fullerton, California
+</p>
 
-<p><h3>Universidade Federal do Espírito Santo<small style="font-size:12px;"> | BS in Statistics </small></h3></p>
+<p style="margin-bottom:0;"><h3 style="margin-bottom:0;">Universidade Federal do Espírito Santo<small style="font-size:12px;"> | BS in Statistics </small></h3>
+    Dec 2017 | Vitória, ES, Brazil
+</p>
 
-<p><h3>Alma Mater Studiorum - Università di Bologna<small style="font-size:12px;"> | MSc in Quantitative Finance </small></h3></p>
+<p style="margin-bottom:0;"><h3 style="margin-bottom:0;">Alma Mater Studiorum - Università di Bologna<small style="font-size:12px;"> | MSc in Quantitative Finance </small></h3>
+    Mar 2022 | Bologna, Italy
+</p>
 
-<p><h3>Università di Verona<small style="font-size:12px;"> | PhD in Economics and Finance </small></h3></p>
+<p style="margin-bottom:0;"><h3 style="margin-bottom:0;">Università di Verona<small style="font-size:12px;"> | PhD in Economics and Finance </small></h3>
+    Present | Verona, Italy
+</p>
