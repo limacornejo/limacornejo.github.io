@@ -4,10 +4,10 @@ layout: page
 
 
 <header><h1>Short Curriculum Vitae</h1></header>
-<div>
+
 <header style="margin-bottom:0.05;"><h2 style="margin-bottom:0;">Research</h2></header>
 
-
+<div>
 <p style="margin-bottom:0;"><h3 style="margin-bottom:0;">UFES Laboratório de Estatística e Computação Natural<small style="font-size:12px;"> | Undergraduate Researcher </small></h3>
    Jul 2015 – Dec 2017 | Vitória, ES, Brazil
 </p>
