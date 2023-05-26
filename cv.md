@@ -22,7 +22,7 @@ layout: page
 </div>
 
 
-<header style="margin-bottom:0.05;"><h2 style="margin-bottom:0;">Education</h2></header>
+<header style="margin-bottom:0;"><h2 style="margin-bottom:0;">Education</h2></header>
 
 <p style="margin-bottom:0;"><h3 style="margin-bottom:0;">California State University, Fullerton<small style="font-size:12px;"> | BS in Mathematics - Probability and Statistics </small></h3>
     Jul 2015 | Fullerton, California
