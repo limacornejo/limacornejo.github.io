@@ -7,7 +7,7 @@ layout: page
 
 <header><h2>Research</h2></header>
 
-<h3>UFES Laboratório de Estatística e Computação Natural <small style="font-size:5px;">| Undergraduate Researcher </small></h3>
+<p><h3>UFES Laboratório de Estatística e Computação Natural</h3><small style="font-size:5px;"> | Undergraduate Researcher </small><p>
 
 
 <header><h2>Education</h2></header>
