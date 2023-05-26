@@ -15,9 +15,9 @@ layout: page
    May 2015 – Jul 2015 | Fullerton, California
 </p>
 
-<h3>UFES Núcleo de Modelagem Estocástica<small style="font-size:12px;"> | Undergraduate Researcher </small></h3>
+<p><h3>UFES Núcleo de Modelagem Estocástica<small style="font-size:12px;"> | Undergraduate Researcher </small></h3>
     Jun 2012 – May 2013 | Vitória, ES, Brazil
-
+</p>    
 
 
 <header><h2>Education</h2></header>
