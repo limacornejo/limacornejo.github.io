@@ -5,7 +5,7 @@ layout: page
 
 <header><h1>Short Curriculum Vitae</h1></header>
 
-<header><h2>Research</h2></header>
+<header><h2 style="margin-bottom:0.3;">Research</h2></header>
 
 <div>
 <p style="margin-bottom:0;"><h3 style="margin-bottom:0;">UFES Laboratório de Estatística e Computação Natural<small style="font-size:12px;"> | Undergraduate Researcher </small></h3>
