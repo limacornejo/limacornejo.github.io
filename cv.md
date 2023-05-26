@@ -11,11 +11,11 @@ layout: page
    Jul 2015 – Dec 2017 | Vitória, ES, Brazil
 </p>
 
-<p style="margin : 0; padding-top:0;"><h3>CSUF Center for Sport Performance<small style="font-size:12px;"> | Undergraduate Researcher </small></h3>
+<p style="margin-bottom:0;"><h3 style="margin-bottom:0;">CSUF Center for Sport Performance<small style="font-size:12px;"> | Undergraduate Researcher </small></h3>
    May 2015 – Jul 2015 | Fullerton, California
 </p>
 
-<p><h3>UFES Núcleo de Modelagem Estocástica<small style="font-size:12px;"> | Undergraduate Researcher </small></h3>
+<p style="margin-bottom:0;"><h3 style="margin-bottom:0;">UFES Núcleo de Modelagem Estocástica<small style="font-size:12px;"> | Undergraduate Researcher </small></h3>
     Jun 2012 – May 2013 | Vitória, ES, Brazil
 </p>    
 
