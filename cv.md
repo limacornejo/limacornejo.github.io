@@ -8,7 +8,7 @@ layout: page
 <header><h2>Research</h2></header>
 
 <ul>
-  <li><h3>UFES Laboratório de Estatística e Computação Natural</h3><h4>Undergraduate Researcher</h4></li>
+  <li><nobr><h3>UFES Laboratório de Estatística e Computação Natural</h3><h4>Undergraduate Researcher</h4></nobr></li>
   <li><h3>CSUF Center for Sport Performance</h3> | Undergraduate Researcher</li>
 </ul>
 
