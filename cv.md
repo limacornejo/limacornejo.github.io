@@ -7,7 +7,10 @@ layout: page
 
 <header><h2>Research</h2></header>
 
-<p>Page not found</p>
+<ul>
+  <li><h3>UFES Laboratório de Estatística e Computação Natural</h3> | Undergraduate Researcher</li>
+  <li><h3>CSUF Center for Sport Performance</h3> | Undergraduate Researcher</li>
+</ul>
 
 
 <header><h2>Education</h2></header>
