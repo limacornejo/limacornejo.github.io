@@ -7,11 +7,11 @@ layout: page
 
 <header><h2>Research</h2></header>
 
-<p><h3>UFES Laboratório de Estatística e Computação Natural<small style="font-size:12px;"> | Undergraduate Researcher </small></h3>
+<p style="margin : 0; padding-top:0;"><h3>UFES Laboratório de Estatística e Computação Natural<small style="font-size:12px;"> | Undergraduate Researcher </small></h3>
    Jul 2015 – Dec 2017 | Vitória, ES, Brazil
 </p>
 
-<p><h3>CSUF Center for Sport Performance<small style="font-size:12px;"> | Undergraduate Researcher </small></h3>
+<p style="margin : 0; padding-top:0;"><h3>CSUF Center for Sport Performance<small style="font-size:12px;"> | Undergraduate Researcher </small></h3>
    May 2015 – Jul 2015 | Fullerton, California
 </p>
 
