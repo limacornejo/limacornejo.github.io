@@ -25,7 +25,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:matheus.limacornejo@univr.it"}
   - {title: Github, icon: github, url: "https://github.com/mvtth43us"}
-  - {title: Twitter, icon: twitter, url: "https://twitter.com"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/mvtth43us"}
   #- {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
