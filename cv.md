@@ -3,7 +3,7 @@ layout: page
 ---
 
 
-<header><h1>Short Curriculum Vitae</h1></header>
+<!--<header><h1>Short Curriculum Vitae</h1></header>-->
 
 <header style="margin-bottom:0;"><h2 style="margin-bottom:0;">Research</h2></header>
 
